@@ -1,0 +1,13 @@
+h1,
+h2 {
+  color: darkgreen;
+}
+
+h3,
+p {
+  color: darkgreen;
+}
+
+* {
+  background: lightgreen;
+}
