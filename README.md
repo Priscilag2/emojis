@@ -1,0 +1,2 @@
+# emojis
+projeto de emojis
